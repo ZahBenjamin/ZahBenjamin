@@ -1,6 +1,7 @@
 ### Hi there 👋
 
+I'm a Junior back-end developer working at Fishburd LLC, doing some DevOps-lite work as well.
 
-- 🔭 I’m currently working on Discord.JS Bot functions in Tag Along
-- 🌱 I’m currently learning MERN Stack && Ruby on Rails
-
+Technologies:
+- Ruby
+- GraphQL
