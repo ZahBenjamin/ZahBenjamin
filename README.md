@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-I'm a Junior back-end developer working at Fishburd LLC, doing some DevOps-lite work as well.
+I'm a Junior back-end developer, recently finishing a contract at GetWendi, doing some DevOps-lite work as well.
 
-Technologies:
-- Ruby
-- GraphQL
+Technologies I like:
+- Ruby/Rails
+- Go
+- React
+- Python
